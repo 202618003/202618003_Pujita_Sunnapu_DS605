@@ -1,0 +1,53 @@
+see your calibre (aukaat)
+recipes -> ingredients -> remove unnecessary ingredients -> tasting (namak kam zyada, khane layak) -> serving
+project modelling -> data acquisition -> data preprocessing (feature selection) -> modelling (training) -> evaluation -> deployment
+make API out of you model
+
+Project ideas
+portfolio optimization
+churn analysis
+domains cover karo for different projects (dhandha bada karo)
+know the maths behind your code
+
+tabular data Kaggle -> make your own data, merge
+
+student_id_lab_1
+
+scrappy: 
+import requests (search)
+robot txt
+
+
+assignemnet bhejdo. ask it to explain it to you and then ask the code in the same prompt. convert it to markdown
+
+search+:
+ssid
+simd
+
+
+Challenge:
+A 0
+B 1
+C 2
+D 3
+
+you were supposed to impute in the missing values: mean, median, knn etc. not the same method for all
+handle imbalance: undersampling, oversampling, smote
+hyperparameters in logistic relation: 
+logistic regression - randomsearchcv or gridsearchcv
+remove outliers
+plot to visualize mistakes
+
+
+Challenege 2
+1. end to end
+2. hyperparameters
+3. optimization (correlate with 3)
+4. api calling (request or something)
+5. might not use any library.  CONCEPT CLARITY
+
+focus on optimization
+pi push karenge phir loss milega usko reduce karna hai based on hyperparameter. marking based on the API calling. least number of calls, better performance higher marks.
+blackbox model can be anything given the parameter
+
+consider that there is a blackbox model, which takes API returns loss. choose the hyperparamters that gives the lest loss function. the TA has run the blackbox 1 lakh times so he has the loss function for each hyperparameter which he has stored. choose the ones having the least loss function. no libraries should be used. 
