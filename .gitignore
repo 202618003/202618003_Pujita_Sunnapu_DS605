@@ -1,4 +1,6 @@
-202618003_Lab6_r/data
+**/data/
+**/data/**
 *.csv
 *.cfg
 *.pkl
+*.pdf
